@@ -1,0 +1,29 @@
+_repo: How-it-feels-to-be-colored-me_73549
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hurston, Zora Neale
+    birthdate: 1891
+    deathdate: 1960
+    gutenberg_agent_id: '6368'
+    url: http://www.gutenberg.org/2009/agents/6368
+    wikipedia: https://en.wikipedia.org/wiki/Zora_Neale_Hurston
+description: ''
+gutenberg_issued: '2024-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73549'
+language: en
+pgterms:marc905: 20240313164122hurston
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Carla Foust, Steve Mattern and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aCarlisle, Mass. :$bApplewood Books, $c1928, reprint 2015.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: How it feels to be colored me
+url: http://www.gutenberg.org/ebooks/73549
